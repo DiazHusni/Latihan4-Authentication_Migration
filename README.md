@@ -1,3 +1,3 @@
 # Latihan4-Authentication_Migration
 
-Belum Selesai, akan dipush ke Repository ini setelah selesai.
+Belum selesai, akan dipush ke Repository ini setelah selesai.
